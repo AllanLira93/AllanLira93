@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Busco uma oportunidade de novos desafios, contribuindo com a equipe e de me desenvolver como profissional.</p>
+<p align="left">Busco uma oportunidade de novos desafios, contribuindo com a equipe e me desenvolvendo como profissional.</p>
 
 ###
 
