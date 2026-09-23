@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Tenho conhecimento básico em: Python, HTML, CSS, Java Script, Java, SQL. Atualmente estou aprofundando meus conhecimentos, buscando aprender novas linguagens, estudando inglês e trabalhando em projetos pessoais.</p>
+<p align="left">Tenho conhecimento em: Python, HTML, CSS, Java Script, Java, SQL. Atualmente estou aprofundando meus conhecimentos, buscando aprender novas linguagens, estudando inglês e trabalhando em projetos pessoais.</p>
 
 ###
 
