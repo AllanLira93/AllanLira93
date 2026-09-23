@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou Allan Lira, estudante de Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">Olá! Sou Allan Lira, formado em Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
